@@ -1,0 +1,24 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: oven-sh/setup-bun@v2
+      - uses: Swatinem/rust-cache@v2
+      - run: cargo build --manifest-path highlight/Cargo.toml
+      - run: bun install
+      - run: bun run build
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
