@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arshtyi.github.io</id>
     <title>Arshtyi's Blog</title>
-    <updated>2026-03-21T07:12:49.989Z</updated>
+    <updated>2026-04-28T11:06:32.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Arshtyi</name>
@@ -19,10 +19,9 @@
         <link href="/posts/about-me"/>
         <updated>2026-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Some information about me.]]></summary>
-        <content type="html"><![CDATA[<h2>About Me</h2>
-<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
-<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=Arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a>
-<a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
+        <content type="html"><![CDATA[<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
+<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=Arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a></p>
+<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
 <h2>Interests</h2>
 <ul>
 <li>Science fiction</li>
@@ -33,7 +32,7 @@
 <p>I am passionate about combining knowledge, technology, and personal interests. My primary areas of interest and development are algorithms, programming languages.</p>
 <h3>Current Goals</h3>
 <ul>
-<li>Rust,CPP,CSharp,Go,Lean,Typst</li>
+<li>Rust, CPP, CSharp, Go, Lean, Typst</li>
 <li>Algorithms</li>
 </ul>
 <h2>Motto</h2>

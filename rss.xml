@@ -4,7 +4,7 @@
         <title>Arshtyi's Blog</title>
         <link>https://arshtyi.github.io</link>
         <description>Blog about my research and development.</description>
-        <lastBuildDate>Sat, 21 Mar 2026 07:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 11:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -16,10 +16,9 @@
             <guid>/posts/about-me</guid>
             <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Some information about me.]]></description>
-            <content:encoded><![CDATA[<h2>About Me</h2>
-<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
-<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=Arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a>
-<a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
+            <content:encoded><![CDATA[<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
+<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=Arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a></p>
+<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
 <h2>Interests</h2>
 <ul>
 <li>Science fiction</li>
@@ -30,7 +29,7 @@
 <p>I am passionate about combining knowledge, technology, and personal interests. My primary areas of interest and development are algorithms, programming languages.</p>
 <h3>Current Goals</h3>
 <ul>
-<li>Rust,CPP,CSharp,Go,Lean,Typst</li>
+<li>Rust, CPP, CSharp, Go, Lean, Typst</li>
 <li>Algorithms</li>
 </ul>
 <h2>Motto</h2>
