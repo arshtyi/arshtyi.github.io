@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arshtyi.github.io</id>
-    <title>Arshtyi's Blog</title>
-    <updated>2026-04-28T11:06:32.722Z</updated>
+    <title>arshtyi's Blog</title>
+    <updated>2026-05-16T06:23:40.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
-        <name>Arshtyi</name>
+        <name>arshtyi</name>
         <email>arshtyi@foxmail.com</email>
         <uri>https://arshtyi.github.io</uri>
     </author>
     <link rel="alternate" href="https://arshtyi.github.io"/>
     <link rel="self" href="https://arshtyi.github.io/atom.xml"/>
     <subtitle>Blog about my research and development.</subtitle>
-    <rights>All rights reserved 2026, Arshtyi</rights>
+    <rights>All rights reserved 2026, arshtyi</rights>
     <entry>
         <title type="html"><![CDATA[About Me]]></title>
         <id>/posts/about-me</id>
@@ -20,8 +20,8 @@
         <updated>2026-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Some information about me.]]></summary>
         <content type="html"><![CDATA[<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
-<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=Arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a></p>
-<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
+<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a></p>
+<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
 <h2>Interests</h2>
 <ul>
 <li>Science fiction</li>
@@ -48,7 +48,7 @@
 </ul>
 ]]></content>
         <author>
-            <name>Arshtyi</name>
+            <name>arshtyi</name>
             <email>arshtyi@foxmail.com</email>
             <uri>https://arshtyi.github.io</uri>
         </author>
