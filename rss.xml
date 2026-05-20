@@ -4,7 +4,7 @@
         <title>arshtyi's Blog</title>
         <link>https://arshtyi.github.io</link>
         <description>Blog about my research and development.</description>
-        <lastBuildDate>Sat, 16 May 2026 06:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 06:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -18,22 +18,21 @@
             <description><![CDATA[Some information about me.]]></description>
             <content:encoded><![CDATA[<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
 <p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a></p>
-<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=arshtyi&amp;layout=donut&amp;theme=algolia" alt="Top Langs"></a></p>
 <h2>Interests</h2>
 <ul>
 <li>Science fiction</li>
-<li>Collectible card games (especially Yu-Gi-Oh!)</li>
+<li>Trading card games (especially Yu-Gi-Oh!)</li>
 <li>Strategy games</li>
 </ul>
 <h2>Focus</h2>
 <p>I am passionate about combining knowledge, technology, and personal interests. My primary areas of interest and development are algorithms, programming languages.</p>
 <h3>Current Goals</h3>
 <ul>
-<li>Rust, CPP, CSharp, Go, Lean, Typst</li>
+<li>Rust, CPP, CSharp, Go, Python</li>
+<li>Lean, Typst</li>
 <li>Algorithms</li>
 </ul>
 <h2>Motto</h2>
-<!-- > 穷诸玄辩,若一毫置于太虚;竭世枢机,似一滴投于巨壑. -->
 <p align="center">
   <i>"Explore the profound and subtle until even the smallest particle finds its place in the void; exhaust the mechanisms of the world as if a single drop plunges into a great abyss."</i>
 </p>
