@@ -1,46 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>arshtyi's Blog</title>
+        <title>arshtyi's blog</title>
         <link>https://arshtyi.github.io</link>
-        <description>Blog about my research and development.</description>
-        <lastBuildDate>Wed, 20 May 2026 06:00:05 GMT</lastBuildDate>
+        <description>blog about my research and development.</description>
+        <lastBuildDate>Tue, 28 Jul 2026 02:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>All rights reserved 2026, arshtyi</copyright>
         <atom:link href="https://arshtyi.github.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About Me]]></title>
+            <title><![CDATA[about me]]></title>
             <link>/posts/about-me</link>
             <guid>/posts/about-me</guid>
             <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Some information about me.]]></description>
-            <content:encoded><![CDATA[<p>I am an undergraduate student in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
-<p><a href="https://github.com/ishandutta2007/beautiful-github-homepage"><img src="https://beautiful-github-homepage.vercel.app/api?username=arshtyi&amp;show_icons=true&amp;theme=algolia" alt="Ishan's GitHub stats"></a></p>
-<h2>Interests</h2>
+            <description><![CDATA[about me.]]></description>
+            <content:encoded><![CDATA[<p>I am <strong>arshtyi</strong>, an undergraduate student majoring in Computer Science and Technology (Artificial Intelligence) at Shandong University, China.</p>
+<h2>areas of interest</h2>
+<p>I enjoy connecting knowledge, technology, and personal interests through programming. My areas of interest include:</p>
 <ul>
-<li>Science fiction</li>
-<li>Trading card games (especially Yu-Gi-Oh!)</li>
-<li>Strategy games</li>
+<li>algorithms and problem solving</li>
+<li>programming languages and software development</li>
+<li>formal verification</li>
+<li>typesetting and technical writing tools</li>
 </ul>
-<h2>Focus</h2>
-<p>I am passionate about combining knowledge, technology, and personal interests. My primary areas of interest and development are algorithms, programming languages.</p>
-<h3>Current Goals</h3>
+<h2>languages and tools</h2>
 <ul>
-<li>Rust, CPP, CSharp, Go, Python</li>
-<li>Lean, Typst</li>
-<li>Algorithms</li>
+<li><strong>programming languages:</strong> rust, cpp, zig, c#, go, python, lua, kotlin etc</li>
+<li><strong>formal verification:</strong> lean</li>
+<li><strong>typesetting:</strong> typst</li>
 </ul>
-<h2>Motto</h2>
-<p align="center">
-  <i>"Explore the profound and subtle until even the smallest particle finds its place in the void; exhaust the mechanisms of the world as if a single drop plunges into a great abyss."</i>
-</p>
-<h2>Contact Me</h2>
+<h2>beyond programming</h2>
+<p>Outside computer science, I am interested in science fiction, trading card games—especially Yu-Gi-Oh!—and strategy games.</p>
+<h2>contact me</h2>
+<p>Feel free to reach out through any of the following:</p>
 <ul>
-<li>E-mail: <a href="mailto:arshtyi@foxmail.com">arshtyi@foxmail.com</a></li>
-<li>QQ: 640006128</li>
-<li>WeChat: arshtyi_TRANTOR</li>
+<li><strong>Email:</strong> <a href="mailto:arshtyi@foxmail.com">arshtyi@foxmail.com</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/arshtyi">@arshtyi</a></li>
+<li><strong>QQ:</strong> 640006128</li>
+<li><strong>WeChat:</strong> <code>arshtyi_trantor</code></li>
 </ul>
 ]]></content:encoded>
             <author>arshtyi@foxmail.com (arshtyi)</author>
